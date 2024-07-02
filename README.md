@@ -26,10 +26,11 @@ I'm an avid reader and I love to play football and table tennis...<br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=pie&border_radius=30" alt="Top Languages Used" />
 </p>
 
-<h3>Connect to me at:</h3>
+<h3>You can reach me at:</h3>
+<a href="discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=40 width=40></a>
 <a href="https://www.kaggle.com/ksriramasrikar"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg"height=40 width=40></a>
 <a href="https://in.linkedin.com/in/kakaraparty-srirama-srikar-b6257b28a"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"height=40 width=40></a>
-<a href="discord.com/users/1142830122391572521"><img align="center" src = "https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" height=40 width=40></a>
+
 
 <!---
 k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
