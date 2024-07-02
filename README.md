@@ -17,13 +17,13 @@ I'm an avid reader and I love to play football and table tennis...<br>
     <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=radical&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
 </p>
 
-<br>
+
 
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=transparent&border_radius=30" alt="GitHub Streak" />
 </p>
 
-<br>
+
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=pie&border_radius=30" alt="Top Languages Used" />
@@ -42,7 +42,7 @@ I'm an avid reader and I love to play football and table tennis...<br>
 <img align="left" alt="nodejs" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="svelte" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
 <img align="left" alt="ionic" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" />
-<img align="left" alt="ionic" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+<img align="left" alt="flask" width="50px" src="flask.png" />
 <img align="left" alt="arduino" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
 <img align="left" alt="git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <br><br>
