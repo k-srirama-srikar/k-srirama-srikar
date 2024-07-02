@@ -37,6 +37,7 @@ I'm an avid reader and I love to play football and table tennis...<br>
 <img align="left" alt="js" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="kotlin" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="xml" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" />
+<img align="left" alt="gradle" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
 <img align="left" alt="css" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="html" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="nodejs" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
