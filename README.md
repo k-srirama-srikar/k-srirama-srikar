@@ -56,7 +56,7 @@ I'm an avid reader and I love to play football and table tennis...<br>
 <img align="left" alt="tensorflow" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="keras" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" />
 
-<br><br>
+<br><br><br>
 <h3>You can reach me at:</h3>
 <a href="https://discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=40 width=40></a>
 &nbsp;
