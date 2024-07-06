@@ -9,26 +9,27 @@ I'm an avid reader and I love to play football and table tennis...<br>
 <br>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=onestar" alt="srikar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub" alt="srikar" /></a> </p>
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=radical&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=github_dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
 </p>
 
 
 
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=transparent&border_radius=30" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
 
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=pie&border_radius=30" alt="Top Languages Used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30" alt="Top Languages Used" />
 </p>
 <br>
+
+
 <h3>Skills:</h3>
 <img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
 <img align="left" alt="java" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
