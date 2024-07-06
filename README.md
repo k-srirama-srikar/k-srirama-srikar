@@ -42,8 +42,8 @@ I'm an avid reader and I love to play football and table tennis...<br>
 <img align="left" alt="css" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="html" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="nodejs" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-
 <img align="left" alt="svelte" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
+<br>
 <img align="left" alt="ionic" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" />
 <img align="left" alt="flask" width="50px" src="flask.png" />
 <img align="left" alt="arduino" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
