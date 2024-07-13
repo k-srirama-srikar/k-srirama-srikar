@@ -5,7 +5,7 @@
 
 <br><br><br><br>
 I have a keen interest in programming and love to learn new languages💻...<br>
-I'm quite passionate about learning and sharing my knowledge🌟...<br>
+I'm quite passionate about learning and sharing my knowledge⭐...<br>
 The domains of AI, Cybersecurity and Data Science always intrigue me🎯...<br>
 I'm an avid reader and I love to play football and table tennis🏓...<br>
 
