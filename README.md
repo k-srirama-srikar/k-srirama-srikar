@@ -63,6 +63,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br>
 <h4>Python libraries known:</h4>
 <img align="left" alt="numpy" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
 <img align="left" alt="opencv" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" />
+<img align="left" alt="matplotlib" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="pandas" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="pytorch" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="tensorflow" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
