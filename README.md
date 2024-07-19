@@ -68,6 +68,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br>
 <img align="left" alt="pytorch" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="tensorflow" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="keras" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" />
+<img align="left" alt="scikit-learn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />
 
 <br><br><br>
 <h3>You can reach me at:</h3>
