@@ -1,5 +1,5 @@
 # Hi! I’m K Srirama Srikar✨!!
-<h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science...</h3>
+<h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science :octocat:...</h3>
 
 <p> <img width="300" align='left' src="Octocat/octocat-1720873444543.png"></p>
 
