@@ -1,15 +1,14 @@
 # Hi! I’m K Srirama Srikar✨!!
 <h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science...</h3>
 
-<p> <img width="300" align='left' src="Octocat/octocat-1720873444543.png"></p>
-
-<br><br><br><br>
+<p> <img width="150" align='left' src="Octocat/octocat-1720873444543.png"></p>
+<br>
 I have a keen interest in programming and love to learn new languages💻...<br>
 I'm quite passionate about learning and sharing my knowledge⭐...<br>
 The domains of AI, Cybersecurity and Data Science always intrigue me🎯...<br>
 I'm an avid reader and I love to play football and table tennis🏓...<br>
 
-<br><br><br><br><br><br>
+<br><br>
 
 ### Stats:
 
