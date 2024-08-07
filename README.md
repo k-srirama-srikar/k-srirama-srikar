@@ -33,7 +33,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br>
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30" alt="Top Languages Used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30&hide=G-code" alt="Top Languages Used" />
 </p>
 <br>
 
