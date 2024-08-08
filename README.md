@@ -43,7 +43,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br>
 <br><br>
 <!-- <br> -->
 <!-- <br><br> -->
-<h4>Python libraries known:</h4>
+<h3>Python libraries known:</h3>
 <p align="left">
 <img align="left" alt="numpy" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
 <img align="left" alt="opencv" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" />
