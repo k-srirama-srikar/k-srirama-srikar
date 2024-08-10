@@ -29,6 +29,10 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
 
+<!--- <p align="left"> 
+<a href="https://leetcode.com/k_srirama_srikar/"><img width="48%" src="https://leetcode.card.workers.dev/k_srirama_srikar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+</p> --->
+
 
 
 
