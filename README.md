@@ -15,6 +15,12 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 ![](https://komarev.com/ghpvc/?username=k-srirama-srikar&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 <br>
 
+<!---<p align="left>
+
+![github-stats](https://stats.dooboo.io/api/github-stats?login=k-srirama-srikar)
+
+    
+</p>--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub" alt="srikar" /></a> </p>
 
