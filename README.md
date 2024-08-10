@@ -26,7 +26,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=github_dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true" alt="K Srirama Srikar's GitHub stats" />
 </p>
 
 
