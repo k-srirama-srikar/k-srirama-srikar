@@ -22,7 +22,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
     
 </p>--->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub" alt="srikar" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub" alt="srikar" /></p>
 
 
 <p align="left">
