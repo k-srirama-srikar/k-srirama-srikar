@@ -57,14 +57,14 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 
 <h4>Python libraries known:</h4>
 <div><p align="left">
-<img align="left" alt="numpy" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
-<img align="left" alt="opencv" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" />
-<img align="left" alt="matplotlib" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="pandas" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
-<img align="left" alt="pytorch" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="tensorflow" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="keras" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" />
-<img align="left" alt="scikit-learn" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></p></div>
+<a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /></a>
+<a href="https://opencv.org/"><img align="left" alt="opencv" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" /></a>
+<a href="https://matplotlib.org/"><img align="left" alt="matplotlib" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /></a>
+<a href="https://pandas.pydata.org/"><img align="left" alt="pandas" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /></a>
+<a href="https://pytorch.org/"><img align="left" alt="pytorch" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" /></a>
+<a href="https://www.tensorflow.org/"><img align="left" alt="tensorflow" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" /></a>
+<a href="https://keras.io/"><img align="left" alt="keras" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" /></a>
+<a href="https://scikit-learn.org/stable/"><img align="left" alt="scikit-learn" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></a></p></div>
 
 <br>
 <br><br>
