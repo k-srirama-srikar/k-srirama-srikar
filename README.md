@@ -29,22 +29,22 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
     <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=github_dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
 </p>
 
-
-
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
+
+
 
 <!--- <p align="left"> 
 <a href="https://leetcode.com/k_srirama_srikar/"><img width="48%" src="https://leetcode.card.workers.dev/k_srirama_srikar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p> --->
 
 
-
-
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30&hide=G-code,Gnuplot" alt="Top Languages Used" />
 </p>
+
+
 <br>
 
 
