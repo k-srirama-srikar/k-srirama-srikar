@@ -22,11 +22,11 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
     
 </p>--->
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub&title=-Issues,-Reviews" alt="srikar" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub&margin-w=6&title=-Issues,-Reviews" alt="srikar" /></p>
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=github_dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=vision-friendly-dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
 </p>
 
 <p align="left">
@@ -41,7 +41,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30&hide=G-code,Gnuplot" alt="Top Languages Used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=10&layout=donut&border_radius=30&hide=G-code,Gnuplot" alt="Top Languages Used" />
 </p>
 
 
