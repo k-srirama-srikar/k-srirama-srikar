@@ -80,6 +80,6 @@ k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-srirama-srikar&repo=k-srirama-srikar)](https://github.com/k-srirama-srikar/k-srirama-srikar)
 --->
+<br>
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-srirama-srikar&repo=k-srirama-srikar)](https://github.com/k-srirama-srikar/k-srirama-srikar)
