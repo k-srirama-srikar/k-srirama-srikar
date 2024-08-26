@@ -78,4 +78,8 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 <!---
 k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-srirama-srikar&repo=k-srirama-srikar)](https://github.com/k-srirama-srikar/k-srirama-srikar)
 --->
+
+
+
