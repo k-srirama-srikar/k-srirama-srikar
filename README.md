@@ -73,7 +73,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 &nbsp;
 <a href="https://in.linkedin.com/in/kakaraparty-srirama-srikar-b6257b28a"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"height=40 width=40></a>
 <a href="https://www.kaggle.com/ksriramasrikar"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg"height=40 width=40></a>
-
+<a href="https://www.gitlab.com/ksriramasrikar"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"height=40 width=40></a>
 
 <!---
 k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
