@@ -54,7 +54,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 <br><br>
 <br>
 <br><br>
-
+<br><br>
 <h4>Python libraries known:</h4>
 <div><p align="left">
 <a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /></a>
