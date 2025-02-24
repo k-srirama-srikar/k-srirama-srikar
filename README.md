@@ -44,6 +44,11 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=12&layout=donut&border_radius=30&hide=G-code,Gnuplot" alt="Top Languages Used" />
 </p>
 
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-srirama-srikar&theme=radical" alt="K Srirama Srikar" />
+</p>
+
+
 
 <br>
 
