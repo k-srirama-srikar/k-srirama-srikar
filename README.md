@@ -45,7 +45,7 @@ I'm an avid reader and I love to play football and table tennis🏓...<br></div>
 </p>
 
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-srirama-srikar&theme=highcontrast" alt="K Srirama Srikar" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-srirama-srikar&theme=vision_friendly_dark" alt="K Srirama Srikar" />
 </p>
 
 
