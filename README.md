@@ -2,10 +2,10 @@
 <h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science...</h3>
 <div><p> <img width="150" align='left' src="Octocat/octocat-newbetter.png"></p>
 <br>
-I have a keen interest in programming and love to learn new languages💻...<br>
-I'm quite passionate about learning and sharing my knowledge⭐...<br>
+I enjoy learning new tech adn languages and competitive programming💻...<br>
+I love building cool full-stack web applications⭐...<br>
 The domains of AI, Cybersecurity and Data Science always intrigue me🎯...<br>
-I'm an avid reader and I love to play football and table tennis🏓...<br></div>
+Outside of code, you’ll find me reading some cool novels📄...<br></div>
 
 
 <br><br>
