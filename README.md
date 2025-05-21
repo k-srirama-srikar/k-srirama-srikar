@@ -89,9 +89,11 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
 </div>
 
 <br><br>
-<br>
+<!--<br>-->
 <br><br>
 <br><br>
+
+<br clear="both">
 ### Python libraries known:
 <div><p align="left">
 <a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /></a>
@@ -103,8 +105,9 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
 <a href="https://keras.io/"><img align="left" alt="keras" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" /></a>
 <a href="https://scikit-learn.org/stable/"><img align="left" alt="scikit-learn" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></a></p></div>
 
-<br>
+<!--<br>-->
 <br><br>
+<br clear="both">
 <h3>Other Profiles:</h3>
 <a href="https://discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=40 width=40></a>
 &nbsp;
@@ -117,3 +120,8 @@ k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-srirama-srikar&repo=k-srirama-srikar)](https://github.com/k-srirama-srikar/k-srirama-srikar)
 --->
+
+
+
+
+<!-- <img src="https://raw.githubusercontent.com/k-srirama-srikar/k-srirama-srikar/output/snake.svg" alt="Snake animation" /> -->
