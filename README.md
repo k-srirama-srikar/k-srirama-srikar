@@ -94,6 +94,7 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
 <br><br>
 
 <br clear="both">
+
 ### Python libraries known:
 <div><p align="left">
 <a href="https://numpy.org/"><img align="left" alt="numpy" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /></a>
@@ -108,6 +109,7 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
 <!--<br>-->
 <br><br>
 <br clear="both">
+
 <h3>Other Profiles:</h3>
 <a href="https://discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=40 width=40></a>
 &nbsp;
