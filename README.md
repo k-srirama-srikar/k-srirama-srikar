@@ -1,58 +1,57 @@
-# Hi! I’m K Srirama Srikar✨!!
-<h3> A junior at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science...</h3>
-<div><p> <img width="150" align='left' src="Octocat/octocat-newbetter.png"></p>
+## Hi, I’m Srirama Srikar
+
+
+I'm a third-year undergrad in the Department of Data Science at IIT Palakkad...
+
+I kinda enjoy writing code in general...
+
+Some of the programming languages that I'm good with are : C, C++, Python, Go, OCaml, Java, JavaScript, TypeScript
+
+My academic/techincal intrests include Web Developement, Machine Learning, Systems, Functional Programming among many others...
+
+Outside academics, you might find me enjoying Carnatic Music or reading novels...
+
+
+
+<!-- <h3> A junior at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Data Science...</h3> -->
+<!-- <div><p> <img width="150" align='left' src="Octocat/octocat-newbetter.png"></p>
 <br>
 I enjoy learning new tech and languages and competitive programming💻...<br>
 I love building cool full-stack web applications⭐...<br>
 My academic interests lie in the union of Systems and Machine Learning🎯...<br>
 Outside of code, you’ll find me reading some cool novels📄...<br></div>
+<br><br> -->
 
 
-<br><br>
-
-### Stats:
-
-![](https://komarev.com/ghpvc/?username=k-srirama-srikar&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
-<br>
 
 <!---<p align="left>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats?login=k-srirama-srikar)
-
-    
 </p>--->
 
+<!-- ### Stats:
+![](https://komarev.com/ghpvc/?username=k-srirama-srikar&color=blueviolet&style=plastic&label=PROFILE+VIEWS) 
+<!-- <br>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=k-srirama-srikar&theme=darkhub&margin-w=6&title=-Issues,-Reviews" alt="srikar-github-trophies" /></p>
-
-
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=k-srirama-srikar&show_icons=true&theme=vision-friendly-dark&border_radius=30" alt="K Srirama Srikar's GitHub stats" />
 </p>
-
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=k-srirama-srikar&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 
 <!--- <p align="left"> 
 <a href="https://leetcode.com/k_srirama_srikar/"><img width="48%" src="https://leetcode.card.workers.dev/k_srirama_srikar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p> --->
-
-
-<p align="left">
+<!-- <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-srirama-srikar&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=12&layout=donut-vertical&border_radius=30&hide=G-code,Gnuplot" alt="Top Languages Used" />
 </p>
-
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-srirama-srikar&theme=nord_dark&borderradius=30" alt="K Srirama Srikar" />
 </p>
-
-
-
 <br>
-
-
 ### Skills:
 <div>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" /></a>
@@ -88,12 +87,12 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img align="left" alt="bootstrap" width="40px" height="40px"  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /></a>
 </div>
 
-<br><br>
+<br><br> -->
 <!--<br>-->
-<br><br>
-<br><br>
+<!-- <br><br>
+<br><br> -->
 
-<br clear="both">
+<!-- <br clear="both">
 
 ### Python libraries known:
 <div><p align="left">
@@ -107,15 +106,17 @@ Outside of code, you’ll find me reading some cool novels📄...<br></div>
 <a href="https://scikit-learn.org/stable/"><img align="left" alt="scikit-learn" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" /></a></p></div>
 
 <!--<br>-->
-<br><br>
+<!-- <br><br>  -->
 <br clear="both">
 
-<h3>Other Profiles:</h3>
-<a href="https://discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=40 width=40></a>
-&nbsp;
-<a href="https://in.linkedin.com/in/kakaraparty-srirama-srikar-b6257b28a"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"height=40 width=40></a>
-<a href="https://www.kaggle.com/ksriramasrikar"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg"height=40 width=40></a>
-<a href="https://www.gitlab.com/ksriramasrikar"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"height=40 width=40></a>
+Some of my other public profiles: 
+<a href="https://www.gitlab.com/ksriramasrikar"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" height=30 width=30></a>
+<a href="https://discord.com/users/1142830122391572521"><img align="center" src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height=30 width=30></a>
+<a href="https://in.linkedin.com/in/srirama-srikar"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height=30 width=30></a>
+<a href="https://t.me/srirama_srikar"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height=30 width=30></a>
+<a href="https://instagram.com/srirama_srikar"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height=30 width=30></a>
+<!-- <a href="https://www.kaggle.com/ksriramasrikar"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height=30 width=30></a> -->
+
 
 <!---
 k-srirama-srikar/k-srirama-srikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
